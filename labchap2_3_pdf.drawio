@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="tk9EUOAAdZ4WTwpr2kKb">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8e07pmdHblb2YcKxMRFI-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;START&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="375" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="8e07pmdHblb2YcKxMRFI-5" edge="1" parent="1" source="8e07pmdHblb2YcKxMRFI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="8e07pmdHblb2YcKxMRFI-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="417" y="315.6000061035156" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8e07pmdHblb2YcKxMRFI-10" edge="1" parent="1" source="8e07pmdHblb2YcKxMRFI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="8e07pmdHblb2YcKxMRFI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8e07pmdHblb2YcKxMRFI-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="OUTPUT =&amp;nbsp;&quot;Please enter three integers: &quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="355" y="263.0000061035156" as="geometry" />
+        </mxCell>
+        <mxCell id="8e07pmdHblb2YcKxMRFI-11" edge="1" parent="1" source="8e07pmdHblb2YcKxMRFI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="8e07pmdHblb2YcKxMRFI-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8e07pmdHblb2YcKxMRFI-7" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="initialize x and initialize x to 0" vertex="1">
+          <mxGeometry height="80" width="80" x="375" y="359" as="geometry" />
+        </mxCell>
+        <mxCell id="8e07pmdHblb2YcKxMRFI-12" edge="1" parent="1" source="8e07pmdHblb2YcKxMRFI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="8e07pmdHblb2YcKxMRFI-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8e07pmdHblb2YcKxMRFI-8" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="initialize y and initialize y to 0" vertex="1">
+          <mxGeometry height="80" width="80" x="375" y="456" as="geometry" />
+        </mxCell>
+        <mxCell id="8e07pmdHblb2YcKxMRFI-13" edge="1" parent="1" source="8e07pmdHblb2YcKxMRFI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="8e07pmdHblb2YcKxMRFI-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="417" y="712.4000244140625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8e07pmdHblb2YcKxMRFI-9" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="initialize z and initialize z to 0" vertex="1">
+          <mxGeometry height="80" width="80" x="375" y="563" as="geometry" />
+        </mxCell>
+        <mxCell id="8e07pmdHblb2YcKxMRFI-17" edge="1" parent="1" source="8e07pmdHblb2YcKxMRFI-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="8e07pmdHblb2YcKxMRFI-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8e07pmdHblb2YcKxMRFI-14" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="INPUT&lt;div&gt;read the first integer from the keyboard and store to x&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="375" y="669" as="geometry" />
+        </mxCell>
+        <mxCell id="8e07pmdHblb2YcKxMRFI-18" edge="1" parent="1" source="8e07pmdHblb2YcKxMRFI-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="8e07pmdHblb2YcKxMRFI-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8e07pmdHblb2YcKxMRFI-15" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="INPUT&lt;div&gt;read the first integer from the keyboard and store to y&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="375" y="778" as="geometry" />
+        </mxCell>
+        <mxCell id="8e07pmdHblb2YcKxMRFI-19" edge="1" parent="1" source="8e07pmdHblb2YcKxMRFI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8e07pmdHblb2YcKxMRFI-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="562" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8e07pmdHblb2YcKxMRFI-16" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="INPUT&lt;div&gt;read the first integer from the keyboard and store to z&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="375" y="882" as="geometry" />
+        </mxCell>
+        <mxCell id="8e07pmdHblb2YcKxMRFI-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="multiply x, y, and z and store the result in the result variable" vertex="1">
+          <mxGeometry height="60" width="120" x="609.9999267578125" y="844" as="geometry" />
+        </mxCell>
+        <mxCell id="HPJO413ZQOyr-WHZEK9u-1" edge="1" parent="1" source="8e07pmdHblb2YcKxMRFI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="8e07pmdHblb2YcKxMRFI-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8e07pmdHblb2YcKxMRFI-21" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Define the variable result and initialize it to 0" vertex="1">
+          <mxGeometry height="80" width="80" x="630" y="733" as="geometry" />
+        </mxCell>
+        <mxCell id="8e07pmdHblb2YcKxMRFI-23" edge="1" parent="1" source="8e07pmdHblb2YcKxMRFI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="8e07pmdHblb2YcKxMRFI-4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="85" as="sourcePoint" />
+            <mxPoint x="417" y="204.39999389648438" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8e07pmdHblb2YcKxMRFI-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="OUTPUT =&amp;nbsp;&quot;The program will calculate the product of three intergers.&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="355" y="146" as="geometry" />
+        </mxCell>
+        <mxCell id="HPJO413ZQOyr-WHZEK9u-3" edge="1" parent="1" source="HPJO413ZQOyr-WHZEK9u-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HPJO413ZQOyr-WHZEK9u-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="1027.7333984375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HPJO413ZQOyr-WHZEK9u-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="OUTPUT&lt;div&gt;display &quot;The product is&quot; followed by&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="610" y="935" as="geometry" />
+        </mxCell>
+        <mxCell id="HPJO413ZQOyr-WHZEK9u-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="END" vertex="1">
+          <mxGeometry height="60" width="120" x="610" y="1032.0033984375" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
